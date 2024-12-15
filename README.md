@@ -25,7 +25,7 @@ This repository demonstrates real-time object detection using the **YOLOv4 (You 
 
 2. Install the required Python libraries:
     ```bash
-    pip install opencv-contrib-python cvlib gtts PyObjC pygame numpy
+    pip install opencv-contrib-python cvlib gtts PyObjC pygame numpy tensorflow==2.10.0
     ```
 
 3. Download the YOLOv4 model files:
